@@ -1,0 +1,17 @@
+{
+  "name": "lynda_typescript_chp1",
+  "version": "1.0.0",
+  "description": "TypeScript lets you write JavaScript \"the way you really want to.\" TypeScript compiles to plain JavaScript, so it works in any browser, any host, and any OS. It adds a variety of helpful syntax and tools onto an already mature language, bringing the power and productivity of static typing and object-oriented development to core JavaScript. Plus, it's completely open source.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "lynda",
+    "tutorial",
+    "test"
+  ],
+  "author": "Wendy Wen",
+  "license": "MIT"
+}
