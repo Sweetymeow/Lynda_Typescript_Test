@@ -10,11 +10,12 @@ function Counter(el){
     el.innerHTML = this.count;
   });
 }
-new Counter(container);
 
+new Counter(container);
 
 // var filtered = [-1,0,1,22,31].filter((x) => { return x > 0; });
 var filtered = [-1,0,1,22,31].filter((x) => x > 0 );  // filter: [1, 22, 31]
+console.log(filtered);
 
 // WRONG!
 // function Counter(el){

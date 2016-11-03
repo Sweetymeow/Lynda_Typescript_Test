@@ -12,6 +12,7 @@ function Counter(el) {
 new Counter(container);
 // var filtered = [-1,0,1,22,31].filter((x) => { return x > 0; });
 var filtered = [-1, 0, 1, 22, 31].filter(function (x) { return x > 0; }); // filter: [1, 22, 31]
+console.log(filtered);
 // WRONG!
 // function Counter(el){
 //   this.count = 0; // this: Counter()
