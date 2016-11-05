@@ -18,5 +18,8 @@
     "test"
   ],
   "author": "Wendy Wen",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
 }
